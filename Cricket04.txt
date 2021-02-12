@@ -1,0 +1,4 @@
+Teams that scored 12 points: 
+1  Colombo Kings                8         6         2        12       0.450000
+Teams that scored 09 points: 
+3  Jaffna Stallions             8         4         3         9       0.780000
