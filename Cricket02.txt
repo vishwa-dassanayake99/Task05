@@ -1,0 +1,13 @@
+Normal output
+1  Colombo Kings                8         6         2        12       0.450000
+2  Dambulla Viiking             8         5         2        11      -1.090000
+3  Jaffna Stallions             8         4         3         9       0.780000
+4  Galle Gladiators             8         2         6         4      -0.200000
+5  Kandy Tuskers                8         2         6         4      -0.770000
+
+Parallel Stream
+3  Jaffna Stallions             8         4         3         9       0.780000
+1  Colombo Kings                8         6         2        12       0.450000
+2  Dambulla Viiking             8         5         2        11      -1.090000
+4  Galle Gladiators             8         2         6         4      -0.200000
+5  Kandy Tuskers                8         2         6         4      -0.770000
